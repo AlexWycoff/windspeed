@@ -1,5 +1,5 @@
 # windspeed: Wind Speed Prediction with Synthetic Data
-Using Long-Short Term Memory (LSTM) models and synthetic wind data to create more versatile and accurate wind speed prediction models. This repository hosts the code and data used and generated throughout the research process.
+This repository hosts the code used and data generated throughout the research process for my publication "Evaluating the effectiveness of synthetic training data for day-ahead wind speed prediction in the Great Lakes."
 
 ## Requirements
 Python 3.11 and the following libraries:
